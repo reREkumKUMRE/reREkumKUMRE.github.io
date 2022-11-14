@@ -1,0 +1,215 @@
+body {
+	font-family: Arial;
+	font-size: 13px;
+	color: #F1F1F1;
+	background: #333;
+background-image: url("zaby-pattern.png");
+background-repeat: repeat;
+background-size 400px;
+	text-align: center;
+}
+
+#wrapper {
+	width: 960px;
+	margin: 0 auto;
+	text-align: left;
+}
+
+a {
+	color: #70c5ed;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+#logo {
+	float: left;
+	margin-left: 10px;
+	padding: 0;
+}
+
+#logo h1 {
+	font-size: 36px;
+	font-weight: normal;
+	color: #39a2d3;
+	text-shadow: #FFF 0px 1px 0px;
+}
+
+#logo p {
+	font-size: 13px;
+	color:white;
+	text-transform: capitalize;
+	margin-top: -25px;
+	padding-left: 10px;
+}
+
+#menu {
+	width: 600px;
+	float: right;
+	margin-top: 20px;
+	margin-left: 50px;
+}
+
+#menu ul {
+	list-style: none;
+	margin: 0;
+	padding: 5px 5px 5px 5px;
+}
+
+#menu li {
+	display: block;
+	float: left;
+}
+
+#menu a {
+	color: #39a2d3;
+	font-size: 16px;
+	display: block;
+	float: left;
+	padding: 16px 40px 12px 40px;
+	text-decoration: none;
+}
+
+#menu a:hover {
+	background: #ebeff0;
+	color: #337ea1;
+	-webkit-border-radius: 5px;
+    -khtml-border-radius: 5px; 
+    -moz-border-radius: 5px; 
+    border-radius: 5px;
+}
+
+.menu_active {
+	background: #ebeff0;
+	color: #337ea1;
+	-webkit-border-radius: 5px;
+    -khtml-border-radius: 5px; 
+    -moz-border-radius: 5px; 
+    border-radius: 5px;
+}
+
+#search_top {
+	float: right;
+	margin-right: 30px;
+}
+
+#search_top input {
+	border: 1px solid #FFFFFF;
+	-webkit-border-radius: 5px;
+    -khtml-border-radius: 5px; 
+    -moz-border-radius: 5px; 
+    border-radius: 5px;
+}
+
+#header {
+	float: left;
+	width: 960px;
+	height: 250px;
+	margin-top: 30px;
+	background: url(z21040089Q,Zaba-i-jej-internetowe-wcielenia.jpg) no-repeat;
+}
+
+#title_head {
+	float: left;
+	padding-top: 60px;
+	padding-left: 450px;
+	color: #F1F1F1;
+	font-size: 24px;
+}
+
+#container {
+	float: left;
+	margin-bottom: 30px;
+	width: 960px;
+}
+
+#content {
+	float: left;
+	width: 600px;
+	text-align: justify;
+	padding-left: 10px;
+	line-height: 22px;
+}
+
+h2 {
+	font-size: 20px;
+	font-weight: normal;
+	color:white;
+}
+
+#sidebar {
+	float: right;
+	width: 280px;
+	line-height: 22px;
+	text-align: justify;
+	margin-top: 10px;
+}
+
+#sidebar ul {
+	list-style: none;
+	margin: 0;
+	padding: 5px 5px 5px 5px;
+}
+
+#sidebar li {
+	display: block;
+	float: left;
+	width: 270px;
+	border-bottom: 1px solid #CCC;
+}
+
+#sidebar a {
+	color: #39a2d3;
+	font-size: 14px;
+	display: block;
+	float: left;
+	padding: 4px 0px 4px 10px;
+	text-decoration: none;
+
+}
+
+#sidebar a:hover {
+	color: #777;
+	margin-left: 10px;
+	-webkit-border-radius: 5px;
+    -khtml-border-radius: 5px; 
+    -moz-border-radius: 5px; 
+    border-radius: 5px;
+}
+
+#sidebar_title {
+	width: 270px;
+	font-size: 20px;
+	font-weight: normal;
+	color: #39a2d3;
+	float: left;
+	padding: 4px 0px 4px 10px;
+    background: #ebeff0;
+	-webkit-border-radius: 5px;
+    -khtml-border-radius: 5px; 
+    -moz-border-radius: 5px; 
+    border-radius: 5px;
+}
+
+#sidebar p {
+	padding: 5px;
+	
+}
+
+#footer {
+	width: 960px;
+	float: left;
+	border-top: 1px solid #CCC;
+	font-size: 12px;
+	margin: 0 auto;
+	color: #999;
+}
+p {
+	font-size: 20px;
+	font-weight: normal;
+	color:white;
+	
+}
+
